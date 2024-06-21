@@ -639,14 +639,14 @@ html {
   font-size: 21px;
 }
 
-/* line 144, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 143, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .title {
   font-size: 72px;
   position: relative;
   font-weight: bold;
 }
 
-/* line 148, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 147, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .title__hr {
   width: 65px;
   position: absolute;
@@ -655,12 +655,12 @@ html {
   border-top: 1px solid black;
 }
 
-/* line 155, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 154, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .buttons {
   display: inline-flex;
 }
 
-/* line 157, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 156, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .buttons__main-btn {
   margin-right: 32px;
   width: 200px;
@@ -674,23 +674,23 @@ html {
   font-weight: bold;
 }
 
-/* line 168, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 167, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .buttons__icon-btn {
   display: inline-flex;
   align-items: center;
 }
 
-/* line 171, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 170, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .buttons__icon-btn img {
   margin-right: 12px;
 }
 
-/* line 173, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 172, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .buttons__text {
   font-style: 16px;
 }
 
-/* line 176, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 175, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .elipse {
   width: 194px;
   height: 194px;
@@ -701,13 +701,13 @@ html {
   align-items: center;
 }
 
-/* line 184, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 183, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .elipse_big {
   width: 282px;
   height: 282px;
 }
 
-/* line 187, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 186, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .elipse__subtract {
   width: 129.33px;
   height: 129.33px;
@@ -715,58 +715,58 @@ html {
   border-radius: 150px;
 }
 
-/* line 192, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 191, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .elipse__subtract_big {
   width: 188px;
   height: 188px;
 }
 
-/* line 195, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 194, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .elipse__subtract_white {
   background: white;
 }
 
-/* line 198, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 197, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section {
   overflow: hidden;
   min-height: 700px;
 }
 
-/* line 202, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 201, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__content-container {
   padding-top: 32px;
   position: relative;
 }
 
-/* line 205, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 204, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__title {
   margin-bottom: 40px;
 }
 
-/* line 207, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 206, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__cards-box {
   display: inline-flex;
   justify-content: center;
   margin-bottom: 25px;
 }
 
-/* line 211, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 210, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__cards-item {
   margin-right: 30px;
 }
 
-/* line 213, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 212, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__cards-item:last-child {
   margin-right: 0;
 }
 
-/* line 219, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 218, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__icons-box {
   display: flex;
   justify-content: space-evenly;
 }
 
-/* line 223, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 222, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__first-elipse {
   position: absolute;
   top: 80px;
@@ -774,7 +774,7 @@ html {
   z-index: -1;
 }
 
-/* line 228, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 227, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .second-section__second-elipse {
   position: absolute;
   top: 364px;
@@ -782,7 +782,7 @@ html {
   z-index: -1;
 }
 
-/* line 234, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 233, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .cards-item {
   position: relative;
   width: 360px;
@@ -793,12 +793,12 @@ html {
   align-items: flex-end;
 }
 
-/* line 242, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 241, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .cards-item__img {
   height: 335px;
 }
 
-/* line 244, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 243, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .cards-item__text {
   width: 280px;
   font-size: 36px;
@@ -810,40 +810,40 @@ html {
   font-weight: bold;
 }
 
-/* line 254, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 253, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .cards-item_orange {
   background: #F28B64;
 }
 
-/* line 257, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 256, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .cards-item_blue {
   background: #5290EA;
 }
 
-/* line 260, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 259, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .icons-item {
   display: inline-flex;
   align-items: center;
 }
 
-/* line 263, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 262, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .icons-item__img {
   margin-right: 20px;
   width: 80px;
 }
 
-/* line 266, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 265, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .icons-item__text {
   font-size: 18px;
 }
 
-/* line 268, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 267, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .icons-item__text span {
   font-size: 48px;
   font-weight: bold;
 }
 
-/* line 272, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 271, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section {
   position: relative;
   min-height: 640px;
@@ -852,7 +852,7 @@ html {
   z-index: 0;
 }
 
-/* line 278, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 277, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__container {
   display: flex;
   flex-direction: row;
@@ -862,23 +862,23 @@ html {
   padding-top: 46px;
 }
 
-/* line 285, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 284, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__right-wrapper {
   max-width: 480px;
 }
 
-/* line 287, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 286, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__right-title {
   margin-bottom: 20px;
 }
 
-/* line 289, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 288, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__text {
   margin-bottom: 30px;
   font-size: 18px;
 }
 
-/* line 292, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 291, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__first-elipse {
   position: absolute;
   top: 140px;
@@ -886,7 +886,7 @@ html {
   z-index: -1;
 }
 
-/* line 297, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 296, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__figure {
   position: absolute;
   top: 249px;
@@ -894,26 +894,26 @@ html {
   z-index: -1;
 }
 
-/* line 302, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 301, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .third-section__second-elipse {
   position: absolute;
   right: -120px;
   top: -120px;
 }
 
-/* line 307, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 306, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .title__hr-top {
   bottom: 75px;
 }
 
-/* line 311, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 310, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .footer__img {
   position: absolute;
   left: -250px;
   bottom: 0;
 }
 
-/* line 315, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 314, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .footer__container {
   min-height: 272px;
   display: flex;
@@ -921,295 +921,341 @@ html {
   justify-content: flex-end;
 }
 
-/* line 320, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+/* line 319, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
 .footer__title {
   margin-bottom: 20px;
 }
 
 @media (max-width: 1199px) {
-  /* line 327, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 326, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .container {
     width: 960px;
   }
-  /* line 329, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 328, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .main-section {
     min-height: 690px;
   }
-  /* line 332, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 331, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper img {
     width: 750px;
   }
-  /* line 334, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 333, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper__rectangle-blue {
     width: 500px;
     height: 200px;
   }
-  /* line 337, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 336, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper__rectangle-orange {
     width: 550px;
     height: 200px;
   }
-  /* line 340, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 339, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper__rectangle-grey {
     width: 500px;
     height: 200px;
   }
-  /* line 343, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 342, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .right-wrapper {
     right: 20px;
   }
-  /* line 345, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 344, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .main-section__first-elipse {
     right: 10px;
   }
-  /* line 347, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 346, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .main-section__second-elipse {
     top: 560px;
   }
-  /* line 350, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 349, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .cards-item {
     width: 300px;
     height: 300px;
     margin-right: 20px;
   }
-  /* line 354, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 353, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .cards-item__img {
     height: 270px;
   }
-  /* line 357, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 356, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .cards-item__text {
     top: 120px;
     font-size: 30px;
   }
-  /* line 361, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 360, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section {
     min-height: 600px;
   }
-  /* line 363, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 362, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section__cards-box {
     display: flex;
     justify-content: center;
   }
-  /* line 367, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 366, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .icons-item__img {
     margin-right: 10px;
   }
-  /* line 370, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 369, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section__container {
     padding-left: 40px;
   }
-  /* line 372, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 371, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section__right-wrapper {
     max-width: 450px;
   }
 }
 
 @media (max-width: 991px) {
-  /* line 376, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 375, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .main-section {
     min-height: 530px;
   }
-  /* line 378, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 377, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .main-section__first-elipse {
     top: 70px;
   }
-  /* line 380, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 379, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .main-section__second-elipse {
     top: 400px;
   }
-  /* line 382, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 381, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .container {
     width: 720px;
   }
-  /* line 385, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 384, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper img {
     width: 550px;
   }
-  /* line 388, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 387, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper__rectangle-blue {
     width: 380px;
     height: 130px;
   }
-  /* line 391, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 390, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper__rectangle-orange {
     width: 410px;
     height: 130px;
   }
-  /* line 394, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 393, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .left-wrapper__rectangle-grey {
     width: 380px;
     height: 130px;
   }
-  /* line 398, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 397, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .title {
     font-size: 60px;
   }
-  /* line 401, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 400, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .right-wrapper {
     top: 75px;
     width: 300px;
   }
-  /* line 404, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 403, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .right-wrapper__title {
     font-size: 60px;
   }
-  /* line 406, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 405, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .right-wrapper__text {
     margin-bottom: 10px;
     font-size: 14px;
   }
-  /* line 410, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 409, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .buttons__main-btn {
     font-size: 14px;
     margin-right: 10px;
     width: 160px;
     height: 50px;
   }
-  /* line 415, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 414, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .buttons__icon-btn {
     font-size: 14px;
   }
-  /* line 418, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 417, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .elipse {
     width: 150px;
     height: 150px;
   }
-  /* line 421, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 420, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .elipse__subtract {
     width: 110px;
     height: 110px;
   }
-  /* line 424, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 423, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .elipse__subtract_big {
     width: 170px;
     height: 170px;
   }
-  /* line 428, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 427, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section {
     min-height: 450px;
   }
-  /* line 430, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 429, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section__container {
     padding-top: 20px;
   }
-  /* line 432, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 431, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section__title {
     margin-bottom: 25px;
   }
-  /* line 434, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 433, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section__cards-box {
     margin-bottom: 10px;
   }
-  /* line 436, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 435, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section__first-elipse {
     right: -35px;
   }
-  /* line 438, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 437, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .second-section__second-elipse {
     top: 262px;
     left: -35px;
   }
-  /* line 444, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 443, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .cards-item {
     width: 220px;
     height: 220px;
   }
-  /* line 447, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 446, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .cards-item__img {
     height: 200px;
   }
-  /* line 449, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 448, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .cards-item__text {
     font-size: 22px;
     top: 92px;
     right: -75px;
   }
-  /* line 453, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 452, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .icons-item {
     font-size: 14px;
   }
-  /* line 454, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 453, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .icons-item__img {
     width: 50px;
   }
-  /* line 457, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 456, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .icons-item span {
     font-size: 30px;
   }
-  /* line 460, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 459, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .elipse_dig {
     width: 250px;
     height: 250px;
   }
-  /* line 464, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 463, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section {
     min-height: 510px;
   }
-  /* line 466, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 465, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section__left-title {
     display: none;
   }
-  /* line 468, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 467, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section__right-wrapper {
     max-width: 600px;
   }
-  /* line 470, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 469, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section__container {
     justify-content: flex-start;
     padding-left: 20px;
     padding-top: 20px;
   }
-  /* line 474, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 473, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .third-section__right-title {
     margin-bottom: 10px;
   }
-  /* line 478, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 477, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .title__hr_top {
     bottom: 60px;
   }
-  /* line 483, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 482, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .footer__img {
     width: 500px;
   }
-  /* line 485, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 484, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .footer__title {
     margin-bottom: 10px;
   }
-  /* line 487, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 486, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .footer__container {
     min-height: 210px;
   }
 }
 
 @media (max-width: 767px) {
-  /* line 492, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 491, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .container {
     width: 548px;
   }
-  /* line 494, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 493, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .nav-menu {
     display: none;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    height: 100vh;
+    width: 50%;
+    background: #5290EA;
+    z-index: 20;
+    transition: 0.6s all;
   }
-  /* line 496, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 503, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .nav-menu__list {
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+  }
+  /* line 508, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .nav-menu__list-item {
+    margin-right: 0;
+    font-size: 20px;
+  }
+  /* line 511, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .hamburger {
     width: 30px;
+    position: fixed;
+    top: 40px;
+    right: 30px;
+    height: 14px;
+    z-index: 30;
   }
-  /* line 498, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 518, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .hamburger span {
     height: 2px;
     width: 100%;
     display: block;
     background: black;
     margin-bottom: 4px;
+    transition: 1s all;
   }
-  /* line 504, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 525, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .hamburger span:last-child {
     margin-bottom: 0;
+  }
+  /* line 528, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .hamburger_active span {
+    margin-bottom: -2px;
+  }
+  /* line 530, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .hamburger_active span:nth-child(1) {
+    transform: translateY(3px) rotate(-45deg);
+  }
+  /* line 532, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .hamburger_active span:nth-child(2) {
+    display: none;
+  }
+  /* line 534, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .hamburger_active span:nth-child(3) {
+    transform: translateY(3px) rotate(45deg);
+  }
+  /* line 537, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  .nav-menu_active {
+    right: 0;
   }
 }
 
 @media (max-width: 575px) {
-  /* line 508, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
+  /* line 542, ../../../../stepic/guitarist-portfolio/src/sass/style.sass */
   .container {
     width: 100%;
   }
